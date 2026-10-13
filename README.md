@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Shakha 👋</h1>
+<h1 align="center">Hi, I'm Vedant Pokale 👋</h1>
 
 <p align="center">
-  B.E CSE Student | Aspiring SDE | Building web & Android apps
+  Also known as <b>ShakaByte</b> | B.E CSE Student | Aspiring SDE | Building web & Android apps
 </p>
 
 <p align="center">
@@ -10,21 +10,19 @@
   <a href="https://portfolio-opal-five-11.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
-
 ## 🧑‍💻 About Me
-- 🎓 Pursuing B.E in Computer Science Engineering at Rao Bahadur Y Mahabaleshwarappa Engineering College, Ballari Cantonment, 583104
-- 🔭 Currently working on HemoLynk - An AI Driven Blood Bank Inventory Management System With Risk Redistribution Engine 
-- 🌱 Learning DSA / Android Application / AI / ML 
-- 💼 Open to [internships / jobs
-- ⚡ Final-year CSE student who likes turning real problems into working software, from campus tools to an ML-driven inventory management system. Comfortable across frontend, backend, and mobile, and a fast learner who ships. 
 
----
+Final-year CSE student who turns real problems into working software, from campus tools to an ML-driven inventory system. Comfortable across frontend, backend, and mobile.
+
+- 🎓 Final-year B.E CSE at Rao Bahadur Y Mahabaleshwarappa Engineering College, Ballari
+- 🔭 Building **HemoLynk**, an AI-driven blood bank inventory system with a risk redistribution engine
+- 🌱 Learning DSA, Android development, AI/ML
+- 💼 Open to internships and full-time roles
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,python,mysql,firebase,supabase,kotlin,flutter,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html, css, tailwind, js, react, c, python, mysql, firebase, supabase, kotlin, flutter, git, github" />
 </p>
 
 ---
