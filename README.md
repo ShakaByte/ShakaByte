@@ -22,7 +22,7 @@ Final-year CSE student who turns real problems into working software, from campu
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html, css, tailwind, js, react, c, python, mysql, firebase, supabase, kotlin, flutter, git, github" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,c,python,mysql,firebase,supabase,kotlin,flutter,git,github" />
 </p>
 
 ---
