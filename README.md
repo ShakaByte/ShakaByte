@@ -47,3 +47,6 @@ Final-year CSE student who turns real problems into working software, from campu
 
 ## 📫 Let's Connect
 Feel free to reach out for [collaborations / opportunities / questions].
+
+Email: (mailto:vedu.pokale2004@gmail.com)
+
